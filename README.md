@@ -1,5 +1,8 @@
 ### Hi there 👋  I'm Yury Kiryaev.
 
+- 🌱 I’m currently   learn on frontend development and works with tools as: 
+-HTML5, CSS3, JS
+-React/Redux
 <!--
 **Hansol46/Hansol46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
