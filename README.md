@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm Yury Kiryaev.
 
-- 🌱 I’m currently   learn on frontend development and works with tools as: 
+🌱 I’m currently   learn on frontend development and works with tools as: 
 -HTML5, CSS3, JS
 -React/Redux
 <!--
