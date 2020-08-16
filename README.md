@@ -1,8 +1,17 @@
 ### Hi there 👋  I'm Yury Kiryaev.
 
-🌱 I’m currently   learn on frontend development and works with tools as: 
--HTML5, CSS3, JS
--React/Redux
+🌱 I’m currently learn on frontend development and works with such tools as: 
+HTML5, CSS3, JS and React/Redux
+
+✨ Frontend awesome interesting area in IT-industry for me, and I'm looking for a job at the moment
+
+if you offer me an interesting project wtire on Telegram: @hansoldelrey
+
+or if you want to chat, write too on my Telegram 😄: @hansoldelrey
+
+
+
+Have a nice day guys!
 <!--
 **Hansol46/Hansol46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
