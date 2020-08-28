@@ -5,7 +5,7 @@ HTML5, CSS3, JS and React/Redux
 
 ✨ Frontend awesome interesting area in IT-industry for me, and I'm looking for a job at the moment
 
-if you ready offer me an interesting project wtire on Telegram: @hansoldelrey
+if you ready offer me an interesting project write on Telegram: @hansoldelrey
 
 or if you want to chat, write too on Telegram 😄: @hansoldelrey
 
