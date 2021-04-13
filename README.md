@@ -1,13 +1,20 @@
 ### Hi there 👋  I'm Yury Kiryaev.
 
 🌱 I’m currently learn on frontend development and works with such tools as: 
-HTML5, CSS3, JS and React/Redux
+- HTML5, CSS3, JS(React)
+- bootstrap, material-ui, materialize, styled components
+- React / Redux / express / NodeJS / gatsby
+- MongoDB / MySQL
+- Rest API / AJAX / GraphQL
+- ColdFusion
+- testing on cypress.js
+- webpack
 
-✨ Frontend awesome interesting area in IT-industry for me, and I'm looking for a job at the moment
+✨ Frontend awesome interesting area in IT-industry for me, and if you ready offer me 
 
-if you ready offer me an interesting project write on Telegram: @hansoldelrey
+an interesting project write on 📫 Telegram: @hansoldelrey
 
-or if you want to chat, write too on Telegram 😄: @hansoldelrey
+or if you want to chat, write too on Telegram 😄
 
 
 
