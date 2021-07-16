@@ -2,7 +2,7 @@
 
 🌱 I’m currently learn on frontend development and works with such tools as: 
 - HTML5, CSS3, JS(React)
-- bootstrap, material-ui, materialize, styled components
+- bootstrap, material-ui, materialize
 - React / TypeScript / Redux / express / NodeJS / gatsby
 - MongoDB / MySQL
 - Rest API / AJAX / GraphQL
