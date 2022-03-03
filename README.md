@@ -1,24 +1,14 @@
 ### Hi there 👋  I'm Yury Kiryaev.
 
 🌱 I’m currently learn on frontend development and works with such tools as: 
-- HTML5, CSS3, JS(React)
+- HTML5, CSS3, JS
 - bootstrap, material-ui, materialize
-- React / TypeScript / Redux / express / NodeJS / gatsby
-- MongoDB / MySQL
-- Rest API / AJAX / GraphQL
-- ColdFusion
+- React / TypeScript / Redux / gatsby
 - testing on cypress.js
-- webpack
 
-✨ Frontend awesome interesting area in IT-industry for me, and if you ready offer me 
+✨ Frontend awesome interesting area in IT-industry for me, 
 
-an interesting project write on 📫 Telegram: @hansoldelrey
-
-or if you want to chat, write too on Telegram 😄
-
-
-
-Have a nice day guys!
+and if you ready offer me an interesting project write on 📫 Telegram: @hansoldelrey, mail: kiryaev.yury@yandex.ru.
 <!--
 **Hansol46/Hansol46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
