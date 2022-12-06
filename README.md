@@ -3,6 +3,7 @@
  - HTML, CSS, JS, TypeScript
  - Bootstrap, Material-UI, Materialize
  - React / Redux / Gatsby
+ - GraphQL
  - Testing with Cypress
 
 ✨ Frontend is an awesome part of the web development for me. If you have an interesting project to offer please contact me in 📫 Telegram: @hansoldelrey or by email: kiryaev.yury@yandex.ru.
