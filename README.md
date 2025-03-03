@@ -1,11 +1,10 @@
 ### Hi there 👋 I'm Yury Kiryaev.
 🌱 I’m currently learning frontend development and working with such technologies and tools as:
- - HTML, CSS, JS, TypeScript
- - Bootstrap, Material-UI, Materialize
- - React / Redux / Gatsby
- - GraphQL
- - Testing with Jest
-
+- HTML, CSS, JavaScript / TypeScript
+- React / Redux / Gatsby
+- Webpack / Vite
+- Rest, GraphQL (ApolloClient, Urql)
+- Cypress, Jest, Vitest
 ✨ Frontend is an awesome part of the web development for me. If you have an interesting project to offer please contact me in 📫 Telegram: @hansoldelrey or by email: kiryaev.yury@yandex.ru.
 
 <!--
