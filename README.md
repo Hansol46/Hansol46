@@ -1,24 +1,12 @@
-### Hi there 👋 I'm Yury Kiryaev.
-🌱 I’m currently learning frontend development and working with such technologies and tools as:
-- HTML, CSS, JavaScript / TypeScript
-- React / Redux / Gatsby
-- Webpack / Vite
-- Rest, GraphQL (ApolloClient, Urql)
-- Cypress, Jest, Vitest
-  
-✨ Frontend is an awesome part of the web development for me. If you have an interesting project to offer please contact me in 📫 Telegram: @hansoldelrey or by email: kiryaev.yury@yandex.ru.
-
-<!--
-**Hansol46/Hansol46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there 👋 I'm Yury Kiryaev. 
+🔭 I’m currently developing complex interfaces and implementing business logic at a large fintech company. 
+🌱 Interested in setting up CI/CD processes, optimizing performance, and working with modern frontend technologies.  
+Some of the technologies and tools I work with:   
+ - Frontend Development:  HTML, CSS, JavaScript / TypeScript, React / Redux, Gatsby  
+ - Build Tools:  Webpack / Vite  
+ - Data Handling:  REST, GraphQL (ApolloClient, Urql)  
+ - Performance Optimization:  Nginx modules (gzip, brotli), Grafana dashboards, performance metrics collection  
+ - CI/CD & DevOps:  GitLab CI, Docker, Keycloak, Argo CD, Rancher, Harbor, Graylog, Vault  
+ - Testing:  Cypress, Jest, Vitest
+✨ Frontend is an awesome part of web development for me. If you have an interesting project or collaboration idea, feel free to reach out! 
+📫 Contact me via Telegram:  @hansoldelrey  or email:  kiryaev.yury@yandex.ru  
